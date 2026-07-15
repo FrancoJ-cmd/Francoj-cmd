@@ -12,6 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=systems+%26+backend;distributed+systems%2C+built+from+scratch;4th-year+CS+%40+UNS;self-hosted%2C+start+to+finish" alt="Typing SVG" />
 
 <a href="https://francoj.dev"><img src="https://img.shields.io/badge/francoj.dev-0D0A14?style=for-the-badge&logo=firefoxbrowser&logoColor=9D4EDD" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/francojarque"><img src="https://img.shields.io/badge/in%2Ffrancojarque-0D0A14?style=for-the-badge&logoColor=9D4EDD" alt="linkedin"/></a>
 <a href="mailto:jarquefranco.1c@gmail.com"><img src="https://img.shields.io/badge/email-0D0A14?style=for-the-badge&logo=gmail&logoColor=9D4EDD" alt="email"/></a>
 
 </div>
